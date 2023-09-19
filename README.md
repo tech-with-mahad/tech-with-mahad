@@ -5,7 +5,7 @@
 
 ### Important Links
 - [Website](https://tech.mahad.dev)
-- [My YouTube Channel](https://www.youtube.com/@mahaddev)
+- [YouTube Channel](https://www.youtube.com/@mahaddev)
 - [Twitter](https://twitter.com/techwithmahad)
 - [Instagram](https://www.instagram.com/tech.mahad.dev/)
 - [Facebook](https://www.facebook.com/people/Tech-with-Mahad/61550684951143/)
